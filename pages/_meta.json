@@ -1,0 +1,19 @@
+{
+  "index": "Introduction",
+  "commands": "Commands",
+  "support": "Support",
+  "terms-of-service": "Terms of Service",
+  "privacy-policy": "Privacy Policy",
+  "invite": {
+    "title": "Invite ↗",
+    "type": "page",
+    "href": "https://discord.com/oauth2/authorize?client_id=1182507989576458352&permissions=3173376&scope=applications.commands+bot",
+    "newWindow": true
+  },
+  "support-server": {
+    "title": "Support Server ↗",
+    "type": "page",
+    "href": "https://discord.com/invite/yQxpgFdC6n",
+    "newWindow": true
+  }
+}
