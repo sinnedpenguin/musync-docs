@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/sinnedpenguin/musync/tree/main',
   footer: {
-    text: `© ${new Date().getFullYear()} <a href="https://www.sinnedpenguin.me/" target="_blank" rel="noreferrer">sinnedpenguin</a>. All Rights Reserved.`,
+    text: `© ${new Date().getFullYear()} sinnedpenguin. All Rights Reserved.`,
   },
   useNextSeoProps() {
     const { asPath } = useRouter();
