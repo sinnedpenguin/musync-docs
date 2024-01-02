@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/sinnedpenguin/musync/tree/main',
   footer: {
-    text: '© 2023 sinnedpenguin. All Rights Reserved.',
+    text: `© ${new Date().getFullYear()} [sinnedpenguin](https://www.sinnedpenguin.me/). All Rights Reserved.`,
   },
   useNextSeoProps() {
     const { asPath } = useRouter();
