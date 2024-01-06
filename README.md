@@ -26,6 +26,7 @@
 - **YouTube**
 - **Spotify**
 - **Deezer**
+- **SoundCloud**
 
 ## Screenshots
 ![Play](https://i.ibb.co/SvzGVCr/Screenshot-2023-12-14-083010.png)
