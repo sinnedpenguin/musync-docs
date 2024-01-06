@@ -20,17 +20,23 @@
 - **24/7 Uptime**
 - **Simple Controls**
 - **Voting System (/skip, /skipto, and /stop)**
+- **Autoplay**
 
 ## Supported Sources
 - **YouTube**
 - **Spotify**
 - **Deezer**
-- **Apple Music**
 
 ## Screenshots
 ![Play](https://i.ibb.co/SvzGVCr/Screenshot-2023-12-14-083010.png)
 
 ![Skip](https://i.ibb.co/s21Lxz0/Screenshot-2023-12-14-083151.png)
+
+![Autoplay](https://i.ibb.co/Sns0Tb4/Screenshot-2024-01-07-045831.png)
+
+![Filter](https://i.ibb.co/C7YT9Rk/Screenshot-2024-01-07-045815.png)
+
+![Lyrics](https://i.ibb.co/wpHYNB1/Screenshot-2023-12-23-084414.png)
 
 ## Donation
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1QRSMK)
