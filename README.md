@@ -29,7 +29,7 @@
 - **SoundCloud**
 
 ## Screenshots
-![Play](https://i.ibb.co/SvzGVCr/Screenshot-2023-12-14-083010.png)
+![Play](https://i.ibb.co/f83SnTN/Screenshot-2024-01-07-045801.png)
 
 ![Skip](https://i.ibb.co/s21Lxz0/Screenshot-2023-12-14-083151.png)
 
