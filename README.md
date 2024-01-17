@@ -18,26 +18,31 @@
 - **100% Free**
 - **High-Quality Music**
 - **24/7 Uptime**
-- **Simple Controls**
 - **Voting System (/skip, /skipto, and /stop)**
 - **Autoplay**
+- **Player Buttons**
+- **User Playlists**
 
 ## Supported Sources
 - **YouTube**
 - **Spotify**
 - **Deezer**
 - **SoundCloud**
+- **Apple Music** 
+- **Twitch** 
+- **Bandcamp** 
+- **Vimeo**
 
 ## Screenshots
-![Play](https://i.ibb.co/f83SnTN/Screenshot-2024-01-07-045801.png)
+![Play](https://i.ibb.co/JcgfYBs/Screenshot-2024-01-17-181010.png)
 
-![Skip](https://i.ibb.co/s21Lxz0/Screenshot-2023-12-14-083151.png)
+![Skip](https://i.ibb.co/P9Hz0ZG/Screenshot-2024-01-17-181048.png)
 
-![Autoplay](https://i.ibb.co/Sns0Tb4/Screenshot-2024-01-07-045831.png)
+![Autoplay](https://i.ibb.co/Wtkn00m/Screenshot-2024-01-17-181845.png)
 
-![Filter](https://i.ibb.co/C7YT9Rk/Screenshot-2024-01-07-045815.png)
+![Filter](https://i.ibb.co/Ryr3GQN/Screenshot-2024-01-17-181159.png)
 
-![Lyrics](https://i.ibb.co/wpHYNB1/Screenshot-2023-12-23-084414.png)
+![Lyrics](https://i.ibb.co/6mcs47L/Screenshot-2024-01-17-181145.png)
 
 ## Donation
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1QRSMK)
