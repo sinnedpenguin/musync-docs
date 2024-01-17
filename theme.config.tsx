@@ -5,9 +5,9 @@ import { useRouter } from 'next/router';
 const config: DocsThemeConfig = {
   logo: <strong>Musync!</strong>,
   project: {
-    link: 'https://github.com/sinnedpenguin/musync',
+    link: 'https://github.com/sinnedpenguin/musync-docs',
   },
-  docsRepositoryBase: 'https://github.com/sinnedpenguin/musync/tree/main',
+  docsRepositoryBase: 'https://github.com/sinnedpenguin/musync-docs/tree/main',
   footer: {
     text: `© ${new Date().getFullYear()} sinnedpenguin. All Rights Reserved.`,
   },
