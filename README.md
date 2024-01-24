@@ -21,7 +21,7 @@
 - **Voting System (/skip, /skipto, and /stop)**
 - **Autoplay**
 - **Player Buttons**
-- **User Playlists**
+- **Custom Playlists**
 
 ## Supported Sources
 - **YouTube**
