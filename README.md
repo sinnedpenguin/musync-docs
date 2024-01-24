@@ -34,7 +34,7 @@
 - **Vimeo**
 
 ## Screenshots
-![Play](https://i.ibb.co/JcgfYBs/Screenshot-2024-01-17-181010.png)
+![Play](https://i.ibb.co/5xghHQh/Screenshot-2024-01-24-144422.png)
 
 ![Skip](https://i.ibb.co/P9Hz0ZG/Screenshot-2024-01-17-181048.png)
 
