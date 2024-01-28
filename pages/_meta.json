@@ -8,7 +8,7 @@
   "invite": {
     "title": "Invite ↗",
     "type": "page",
-    "href": "https://discord.com/oauth2/authorize?client_id=1182507989576458352&permissions=3173376&scope=applications.commands+bot",
+    "href": "https://discord.com/oauth2/authorize?client_id=1182507989576458352&permissions=3173376&response_type=code&redirect_uri=https%3A%2F%2Fdsc.gg%2Fmusync-mansion&scope=guilds+applications.commands+bot",
     "newWindow": true
   },
   "support-server": {
