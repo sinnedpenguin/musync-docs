@@ -2,12 +2,14 @@
 
 ## General
 - **/help** - Display available commands and bot info.
+- **/invite** - Get the bot and the support server invite links. <span style={{ color: '#F04747' }}>(new)</span>
 - **/join** - Join the voice channel.
 - **/leave** - Leave the voice channel.
 - **/ping** - View bot latency.
 - **/stats** - View bot stats.
 
 ## Music
+- **/clear** - Clear the current queue.
 - **/move** - Move a song from the queue.
 - **/nowplaying** - Display the currently playing song.
 - **/pause** - Pause the currently playing song.
@@ -22,11 +24,7 @@
 - **/skip** - Skip the current song.
 - **/skipto** - Skip to a specific song in the queue.
 - **/stop** - Stop the music playback.
-- **/volume** - Adjust the volume of music playback.
-- **/voteskip** - Toggle the voting system for skipping songs.
-- **/votestop** - Toggle the voting system for stopping music playback.
-
-*Note*: The **/voteskip** and **/votestop** features are enabled by default, allowing users to collectively decide whether to skip or stop the current song through a voting system. To disable these features, simply use **/voteskip** or **/votestop**.
+- **/volume** - Adjust the volume of music playback. 1-200.
 
 ## Filters
 - **/filter-bassboost**
@@ -39,7 +37,7 @@
 - **/filter-vibrato**
 - **/filter-reset** - Reset the filters.
 
-## Playlist <span style={{ color: '#F04747' }}>(new)</span> 
+## Playlist
 - **/playlist-add** - Add a song to a playlist.
 - **/playlist-clear** - Clear all songs from a playlist.
 - **/playlist-create** - Create a playlist.
@@ -52,6 +50,20 @@
 - **/playlist-view** - View the songs in a playlist.
 
 *Note*: Limits to 3 playlists per user, 30 songs per playlist.
+
+## Settings
+- **/dj-mode** - Toggle DJ mode. Default: OFF. <span style={{ color: '#F04747' }}>(new)</span> 
+- **/dj** - Set or reset the DJ role. <span style={{ color: '#F04747' }}>(new)</span> 
+- **/dj-commands** - Set or reset the commands to restrict in DJ mode. <span style={{ color: '#F04747' }}>(new)</span>
+- **/settings-info** - Display information about server settings. <span style={{ color: '#F04747' }}>(new)</span>
+- **/settings-reset** - Reset server settings. <span style={{ color: '#F04747' }}>(new)</span> 
+- **/voteskip** - Toggle the voting system for skipping songs. Default: OFF.
+- **/votestop** - Toggle the voting system for stopping music playback. Default: OFF.
+- **/voteclear** - Toggle the voting system for clearing the current queue. Default: OFF. <span style={{ color: '#F04747' }}>(new)</span> 
+
+*Note*: 
+1. The **/voteskip**, **/votestop**, and **/voteclear** features are disabled by default. When enabled, users can collectively decide whether to skip, stop, or clear the current song/queue through a voting system.
+2. The **/dj-mode**, **/dj**, **/dj-commands** are disabled/unset by default and only for users that has **Administrator** permission or **DJ** role on the server. When enabled/set, non-**DJ**/non-**Administrator** users will be restricted.
 
 ## Advanced
 - **/autoplay** - Toggle autoplay. Automatically adds and play similar songs to the queue.
