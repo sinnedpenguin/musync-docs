@@ -1,5 +1,19 @@
 # Release Notes 
 
+## 1.6.0
+January 30, 2024 (UTC +08:00)
+- [+] Added DJ commands. *(Restricted to those with administrator permission)* `/dj-role` | `/dj-users` | `/dj-mode` | `/dj-commands`. When enabled or set, non-admin or non-DJ users won't be able to use those commands.
+- [+] Added `/voteclear` command - Voting system for clearing the queue.
+- [+] Voting system for `/skip` | `/skipto` | `/stop` | `/clear` are disabled by default. Only admin/DJ's can enable it. When enabled, voting system will be triggered if there's more than 1 user in the VC regardless if the user executed `/skip` | `/skipto` | `/stop` or `/clear`.
+- [+] Added `/settings-info` command - Display's information about server settings.
+- [+] Added `/settings-reset` - Resets server settings.
+- [+] Added `/invite command` - Retrieve bot and support server invite links.
+- [~] Updated `/play` command - Users won't be able to play or add songs if they're not in the same VC as Musync!
+- [~] Updated `/volume` command - Maximum level is now 200. Previously 100.
+- [*] Fixed `/play` command - Musync! joins VC even though there we're no results found for the user's query.
+- [*] Fixed `/playlist-load` command - Musync! not joining the VC and playing the saved songs from the playlist.
+- [*] Fixed `/join` and `/leave` command - Musync! not joining or leaving the VC properly.
+
 ## 1.5.0
 January 24, 2024 (UTC +08:00)
 - [+] Added more buttons: Playlist add, Filter, Lyrics, and Autoplay.
