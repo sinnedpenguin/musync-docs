@@ -19,6 +19,7 @@
 - **High-Quality Music**
 - **24/7 Uptime**
 - **Voting System (/skip, /skipto, and /stop)**
+- **DJ System** 
 - **Autoplay**
 - **Player Buttons**
 - **Custom Playlists**
@@ -37,6 +38,8 @@
 ![Play](https://i.ibb.co/5xghHQh/Screenshot-2024-01-24-144422.png)
 
 ![Skip](https://i.ibb.co/P9Hz0ZG/Screenshot-2024-01-17-181048.png)
+
+![DJ](https://i.ibb.co/BZ2y244/Screenshot-2024-01-30-151633.png)
 
 ![Autoplay](https://i.ibb.co/Wtkn00m/Screenshot-2024-01-17-181845.png)
 
